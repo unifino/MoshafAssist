@@ -1,0 +1,89 @@
+*{
+    direction: rtl;
+    background-color: rgb(243, 25, 25);
+    color: aliceblue;
+    border: 0px rgb(255, 0, 106) dotted;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 5px;
+    font-family: Terafik;
+    display: inline-block;
+    line-height: 33px;
+}
+head, style, link{ display: none; }
+
+html{
+    border: none;
+    background-color: rgb(68, 68, 68);
+}
+body{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(68, 68, 68);
+    display: block;
+    border: none;
+}
+
+span {
+    background-color: rgb(46, 45, 44);
+}
+
+.libAie{
+    background-color: rgb(21, 120, 201);
+    display: none;
+}
+q{
+    background-color: rgb(21, 120, 201);
+}
+
+.libAlaem, .fm{
+    background-color: rgb(118, 180, 19);
+    display: none;
+}
+
+.libBold2 {
+    background-color: rgb(173, 47, 110);
+}
+
+.libNormal,
+.libNormal0{
+    background-color: rgb(68, 68, 68);
+}
+
+
+.box {
+    background-color: rgb(48, 47, 47);
+    padding: 40px;
+}
+
+.pre {
+    background-color: rgb(39, 33, 33);
+    /* display: none; */
+}
+
+.main {
+    background-color: rgb(78, 78, 78);
+    /* display: none; */
+}
+
+.suffix {
+    background-color: rgb(39, 33, 33);
+}
+
+body{width : 700px;margin : auto;padding : 50px;background-color : #2a2a2a;direction : rtl;}p,span{
+    direction : rtl;
+    color : #cecece;
+    font-family : Terafik;
+    margin : 20px;
+    padding : 10px;
+    border : gray 1px dotted;
+    display : block;
+}
+p { 
+    border: 3px red dotted;
+    background-color: transparent;
+}
+.aya, .quran{color : #18b2e0} 
+.hdeth, .hadith {color : #67bb46} 
+.snd{color : #88827d} 
+.SHR{color : #700718}

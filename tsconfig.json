@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourceMap": true
+    },
+    "include": [
+        "**/*.ts",
+        "tools/R_worker.js"
+    ],
+    "exclude": [
+        "node_modules",
+        ".vscode"
+    ]
+}
